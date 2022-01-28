@@ -1,0 +1,19 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "zoup-eatery-tech",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev src --host localhost",
+    "build": "vuepress build src"
+  },
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  },
+  "dependencies": {
+    "vuepress-bar": "^0.4.4"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
