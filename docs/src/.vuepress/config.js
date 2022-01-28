@@ -24,7 +24,7 @@ module.exports = {
       },
       {
         text: 'Github',
-        link: 'https://www.github.com/zoup-eatery',
+        link: 'https://www.github.com/zoup-eatery/zoup-eatery',
         external: true
       },
     ],
