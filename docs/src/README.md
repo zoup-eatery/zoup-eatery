@@ -1,4 +1,4 @@
-# Tech
+# Introduction
 This documentation is created automatically with [markdown](https://v1.vuepress.vuejs.org/guide/markdown.html). 
 
 ## Installation
