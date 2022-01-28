@@ -12,3 +12,6 @@ In the terminal/command prompt, navigate to the directory `cd /path/to/folder/do
 ::: tip
 You can install "markdown preview" extensions in VS Code to see live-previews in the editor.
 :::
+
+## Deployment
+This documentation will update automatically when code is pushed to the `master` branch and can be seen at [https://zoup-eatery.vercel.app](https://zoup-eatery.vercel.app).
