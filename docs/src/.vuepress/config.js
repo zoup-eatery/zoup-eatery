@@ -1,6 +1,6 @@
 const { description } = require('../../package');
 const getConfig = require('vuepress-bar');
-let { sidebar } = getConfig({ addReadMeToFirstGroup: false, maxLevel: 3 });
+let { sidebar } = getConfig({ addReadMeToFirstGroup: false, maxLevel: 5 });
 module.exports = {
   dest: 'public',
   port: 5000,
